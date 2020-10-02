@@ -9,7 +9,7 @@
     <Grid>
         <TextBox HorizontalAlignment="Left" Height="38" Margin="248,164,0,0" Name="SearchBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="226" TextChanged="TextBox_TextChanged"/>
         <Button Content="Submit" HorizontalAlignment="Left" Margin="323,227,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
-        <Label Content="Lead Generatiion Using Google Custom Search" HorizontalAlignment="Left" Margin="235,90,0,0" VerticalAlignment="Top" Height="32" Width="314"/>
+        <Label Content="Search Data Based on Custom Search Engine" HorizontalAlignment="Left" Margin="235,90,0,0" VerticalAlignment="Top" Height="32" Width="314"/>
 
     </Grid>
 </Window>

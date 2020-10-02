@@ -1,11 +1,8 @@
 ﻿using Google.Apis.Customsearch.v1;
-using Google.Apis.Customsearch.v1.Data;
 using Google.Apis.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ScrapeLinkedinData
 {
